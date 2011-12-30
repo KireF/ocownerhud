@@ -1,4 +1,4 @@
-/*
+/* //Will database come back one day ?
 string broadcasturl = "http://web.mycollar.org/lookup/get/";
 string cmdurl = "http://web.mycollar.org/";
 string dburl = "http://web.mycollar.org/owners/getsubspages";
